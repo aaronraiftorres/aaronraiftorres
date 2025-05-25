@@ -1,16 +1,16 @@
 👋 Hello there!
 Welcome to my GitHub!
 
-💻 What I Do
-🎓 I'm a Computer Science student, majoring in Artificial Intelligence
+💻 What I Do<br>
+🎓 I'm a Computer Science student, majoring in Artificial Intelligence<br>
 
-🌏 I'm from 🇵🇭 the Philippines
+🌏 I'm from 🇵🇭 the Philippines<br>
 
-🌐 I build and design websites to improve my skills and stay consistent with my practice
+🌐 I build and design websites to improve my skills and stay consistent with my practice<br>
 
-🎨 I explore UI/UX design to enhance user experience while sharpening my creative thinking
+🎨 I explore UI/UX design to enhance user experience while sharpening my creative thinking<br>
 
-📸 I do photography and video editing because I love capturing and telling stories visually
+📸 I do photography and video editing because I love capturing and telling stories visually<br>
 
 🎯 Always learning, always building.
 Thanks for stopping by! 😊
